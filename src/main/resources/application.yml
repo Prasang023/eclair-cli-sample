@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: demo
+
+stackoverflow:
+  api:
+    url: http://localhost:8080
